@@ -1,7 +1,7 @@
 {
  "bundle": {
   "file": "bundle.json",
-  "sha256": "d85016f1a2c48fdb3de9148b43b239a830ef54d7a83908592494f7a5e2eb58eb"
+  "sha256": "d332202f20dc9b0abb526fcea025b9136101ea35eb76b62dd2818678b271da68"
  },
  "files": {
   "Luvyaa.json": "48e81a5d09a03a210d24b8175be8c9515bb96e04079d60c842ed722a5863cd8d",
@@ -147,6 +147,7 @@
   "nanomanga.json": "6a10787d5600536578f8ff72640fe228c15b67113d7abc61d30d3304031d67e7",
   "nebulosascan.json": "f491347955203a336d48570d55be7b1a5b0d7384bcf2d77e332e0eca9aa26848",
   "nekoscans.json": "9fe9e9eb77f27d263a714e16374a0e1f4dc5e04b0e3fd3c642174122693b6a9c",
+  "network.json": "d332149c8ec0ebd2b1b92e92cbdbb1d3374a4bad173886db4543fd3e952ec3f6",
   "ngamenkomik.json": "fbe1b2d825c760522803fe4f4c63f056a8bce8e61b6708ac34f868f6242d8f78",
   "ngomik.json": "5e3a357715829f48efae063230bd66de112450d0231da4fb495c555cb13e33e8",
   "ninjascan.json": "4b99d80ecb1cce9175b64d968226bc6014dad6e8eab473de5f967009394bc00e",
@@ -221,6 +222,7 @@
  },
  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEtevkW4swh9TPKIIGhLiVVcHO9riCcsPQkmL0iU9LZntvIZB+zrZNhTeHIH/0Qzld/HHp/xdXTIPuLlq0PKowGQ==",
  "name": "Mancat sources",
+ "network": "network.json",
  "sources": [
   "Luvyaa.json",
   "aarlas.json",
