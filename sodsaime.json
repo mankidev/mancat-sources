@@ -1,0 +1,13 @@
+{
+ "id": "sodsaime",
+ "name": "Sodsaime",
+ "url": "https://www.xn--l3c0azab5a2gta.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/sodsaime/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

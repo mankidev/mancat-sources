@@ -1,0 +1,14 @@
+{
+ "id": "richtoscan",
+ "name": "RichtoScan",
+ "url": "https://r1.richtoon.top",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MMMM dd, yyyy",
+  "icon": "https://www.google.com/s2/favicons?domain=r1.richtoon.top&sz=128"
+ }
+}

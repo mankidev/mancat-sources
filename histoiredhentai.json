@@ -1,0 +1,15 @@
+{
+ "id": "histoiredhentai",
+ "name": "HistoireDHentai",
+ "url": "https://hhentai.fr",
+ "theme": "madara",
+ "lang": "fr",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MMMM d, yyyy",
+  "dateLocale": "fr",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/fr/histoiredhentai/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

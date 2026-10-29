@@ -1,0 +1,18 @@
+{
+ "id": "sushiscan",
+ "name": "Sushi-Scan",
+ "url": "https://sushiscan.net",
+ "theme": "mangathemesia",
+ "lang": "fr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/catalogue",
+  "datePattern": "dd MMMM yyyy",
+  "altNamePrefix": "Nom alternatif : ",
+  "seriesAuthorSelector": ".infotable tr:contains(Auteur) td:last-child",
+  "seriesStatusSelector": ".infotable tr:contains(Statut) td:last-child",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/fr/sushiscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

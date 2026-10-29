@@ -1,0 +1,17 @@
+{
+ "id": "mangalc",
+ "name": "Manga-Lc",
+ "url": "https://manga-lc.net",
+ "theme": "madara",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "pageListParseSelector": ".reading-content img",
+  "filterNonMangaItems": "false",
+  "dateFormat": "d MMMM yyyy",
+  "dateLocale": "th",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/mangalc/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

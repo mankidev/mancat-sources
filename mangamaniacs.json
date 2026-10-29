@@ -1,0 +1,13 @@
+{
+ "id": "mangamaniacs",
+ "name": "MangaManiacs",
+ "url": "https://mangamaniacs.org",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/mangamaniacs/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

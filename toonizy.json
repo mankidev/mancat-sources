@@ -1,0 +1,13 @@
+{
+ "id": "toonizy",
+ "name": "Toonizy",
+ "url": "https://toonizy.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/toonizy/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

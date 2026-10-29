@@ -1,0 +1,15 @@
+{
+ "id": "inventariooculto",
+ "name": "Inventario Oculto",
+ "url": "https://inventariooculto.com",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd MMMM, yyyy",
+  "dateLocale": "es",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/inventariooculto/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

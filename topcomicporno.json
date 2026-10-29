@@ -1,0 +1,15 @@
+{
+ "id": "topcomicporno",
+ "name": "TopComicPorno",
+ "url": "https://topcomicporno.com",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MMM dd, yy",
+  "dateLocale": "es",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/topcomicporno/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

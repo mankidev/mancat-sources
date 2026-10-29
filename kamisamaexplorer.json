@@ -1,0 +1,14 @@
+{
+ "id": "kamisamaexplorer",
+ "name": "Kami Sama Explorer",
+ "url": "https://leitor.kamisama.com.br",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd 'de' MMMM 'de' yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/kamisamaexplorer/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

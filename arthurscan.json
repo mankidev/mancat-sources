@@ -1,0 +1,15 @@
+{
+ "id": "arthurscan",
+ "name": "Arthur Scan",
+ "url": "https://arthurscan.xyz",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "filterGenresSelector": ".genre-item",
+  "dateFormat": "MMMM d, yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/arthurscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

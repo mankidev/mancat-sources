@@ -1,0 +1,15 @@
+{
+ "id": "limonmanga",
+ "name": "Limon Manga",
+ "url": "https://limonmanga.com",
+ "theme": "uzaymanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://cdn-l.efsaneler2.can.re",
+  "logo": "https://limonmanga.com/upload/_logo/logo_1c22j9_180.avif",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/limonmanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "nocturnesummer",
+ "name": "Nocturne Summer",
+ "url": "https://nocfsb.com",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelectorStatus": "div.post-content_item:contains(Estado) > div.summary-content",
+  "dateFormat": "dd 'de' MMMM 'de' yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/nocturnesummer/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

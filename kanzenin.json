@@ -1,0 +1,13 @@
+{
+ "id": "kanzenin",
+ "name": "Kanzenin",
+ "url": "https://kanzenin.info",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://www.google.com/s2/favicons?domain=kanzenin.info&sz=128"
+ }
+}

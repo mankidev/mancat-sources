@@ -1,0 +1,13 @@
+{
+ "id": "asialotus",
+ "name": "Asia Lotus",
+ "url": "https://asialotuss.com",
+ "theme": "mangathemesia",
+ "lang": "es",
+ "nsfw": true,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/asialotus/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

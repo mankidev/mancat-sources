@@ -1,0 +1,16 @@
+{
+ "id": "ragnarscans",
+ "name": "Ragnar Scans",
+ "url": "https://ragnarscans.net",
+ "theme": "initmanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "manga",
+  "popularUrlSlug": "webtoon-siralamasi",
+  "dateFormat": "d MMMM yyyy HH:mm",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/ragnarscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

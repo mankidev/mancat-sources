@@ -1,0 +1,13 @@
+{
+ "id": "ler999",
+ "name": "Ler 999",
+ "url": "https://ler999.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/ler999/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

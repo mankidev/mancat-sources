@@ -1,0 +1,13 @@
+{
+ "id": "one08read",
+ "name": "108Read",
+ "url": "https://www.108read.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/one08read/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

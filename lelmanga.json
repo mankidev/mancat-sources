@@ -1,0 +1,16 @@
+{
+ "id": "lelmanga",
+ "name": "Lelmanga",
+ "url": "https://www.lelmanga.com",
+ "theme": "mangathemesia",
+ "lang": "fr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "altNamePrefix": "Nom alternatif: ",
+  "seriesAuthorSelector": ".imptdt:contains(Auteur) i",
+  "seriesArtistSelector": ".imptdt:contains(Artiste) i",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/fr/lelmanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

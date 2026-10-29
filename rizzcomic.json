@@ -1,0 +1,18 @@
+{
+ "id": "rizzcomic",
+ "name": "Rizz Comic",
+ "url": "https://rizzfables.com",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "formParameter": "TypeValue",
+  "mangaUrlDirectory": "/series",
+  "datePattern": "dd MMM yyyy",
+  "pageSelector": "div#readerarea > img",
+  "listSelector": "div.bsx a",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/rizzcomic/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

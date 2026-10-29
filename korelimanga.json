@@ -1,0 +1,17 @@
+{
+ "id": "korelimanga",
+ "name": "Koreli Manga",
+ "url": "https://korelimanga.com",
+ "theme": "initmanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "manga",
+  "popularUrlSlug": "trending-manga",
+  "latestUrlSlug": "recently-updated",
+  "logo": "https://korelimanga.com/wp-content/uploads/2026/07/koreli.png",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/korelimanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

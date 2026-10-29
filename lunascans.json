@@ -1,0 +1,20 @@
+{
+ "id": "lunascans",
+ "name": "Luna Scans",
+ "url": "https://tuhafscans.com",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "useLoadMoreRequest": "Never",
+  "chapterListSelector": "a.tuhaf-ch-item",
+  "chapterNameSelector": "span.tuhaf-ch-name",
+  "chapterDateSelector": "span.tuhaf-ch-date",
+  "chapterUrlSuffix": "",
+  "dateFormat": "dd.MM.yyyy",
+  "logo": "https://tuhafscans.com/wp-content/uploads/2026/03/ts-logo2.png",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/lunascans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

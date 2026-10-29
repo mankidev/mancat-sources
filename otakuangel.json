@@ -1,0 +1,19 @@
+{
+ "id": "otakuangel",
+ "name": "OtakuAngel",
+ "url": "https://otakuangel.com",
+ "theme": "otakuangel",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://angel.cdnotakuangel.com/",
+  "popularPeriod": "tumzamanlar",
+  "featuredPeriod": "gun",
+  "categories": "Aksiyon,Brocon,Bilim Kurgu,Dövüş Sanatları,Dram,Doğaüstü,Ecchi,Fantastik,Game,Gerilim,Gizem,Gyaru,Harem,Hayalet,Karanlık Fantazi,Komedi,Korku,Loli,Shotacon,Macera,Mecha,Ninja,Parodi,Polisiye,Psikoloji,Romantizm,Savaş,Büyü,Sihirli Kız,Siscon,Spor,Süper Güçler,Süper Kahramanlar,Şeytan,Trajedi,Ters harem,Uzaylı,Western,Wuxia,Xianxia,Xuanhuan,Vampir,Villianes,Yaşamdan Kesitler,Yaratık,Zaman Yolculuğu,Zombi,4-Koma,Doujinshi,Game Adaptation,Light Novel,Manga,Manhua,Manhwa,Oneshot,Visual Novel,Webtoon,Askeri,Felsefi,Hayatta Kalma,Hayvanlar,İnanç,İntikam,Isekai,Mahkeme,Dedektiflik,Mitoloji,Modern,Orta Çağ,Müzik,Okul Hayatı,Kıyamet Sonrası,Köy,Reenkarnasyon,Sanat,Suç,Mafya,Tarihsel,Teknoloji,Tıp,VR / Oyun İçi Dünya,Uzay,Yemek,İnsan dışı,Josei,Kodomo,Seinen,Shoujo,Shounen,Yaoi,Yuri,Bara,Futa,Şiddet,Aşırı Şiddet,Crossdressing,Gender Bender,Hentai,Kan,NTR,Netori,Smut,Tentacle,Trap,Tsundere,Yandere,Yetişkin,AI Çeviri",
+  "logo": "https://angel.cdnotakuangel.com/favicon.webp",
+  "featured": "true",
+  "icon": "https://www.google.com/s2/favicons?domain=otakuangel.com&sz=128"
+ }
+}

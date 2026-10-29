@@ -1,0 +1,15 @@
+{
+ "id": "manhwahubto",
+ "name": "ManhwaHub.to",
+ "url": "https://manhwahub.to",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "manhwa",
+  "genreDirectory": "genre",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/manhwahubto/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

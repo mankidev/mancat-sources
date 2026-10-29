@@ -1,0 +1,22 @@
+{
+ "id": "mangatilkisi",
+ "name": "MangaTilkisi",
+ "url": "https://www.tilkiscans.com",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd/MM/yyyy",
+  "dateLocale": "tr",
+  "useLoadMoreRequest": "Always",
+  "useNewChapterEndpoint": "true",
+  "mangaDetailsSelectorGenre": ".mgcr-modern-card__genres a, div.genres-content a",
+  "altNameSelector": ".mgcr-modern-manga__alternative, .post-content_item:contains(Alternatif) .summary-content",
+  "seriesTypeSelector": ".mgcr-modern-card__fact:contains(Tür) strong",
+  "mangaDetailsSelectorStatus": ".mgcr-modern-card__fact:contains(Durum) strong",
+  "logo": "https://cdn.tilkiscans.com/wp-content/uploads/2025/03/tilkiscanswater-300x57.webp",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/mangatilkisi/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

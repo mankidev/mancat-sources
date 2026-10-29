@@ -1,0 +1,13 @@
+{
+ "id": "manhwalistorg",
+ "name": "IsekaiKomik",
+ "url": "https://ch1.isekaikomik.site",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/manhwalistorg/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

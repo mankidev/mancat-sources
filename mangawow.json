@@ -1,0 +1,14 @@
+{
+ "id": "mangawow",
+ "name": "MangaWOW",
+ "url": "https://mangawow.org",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd MMMM yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/mangawow/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

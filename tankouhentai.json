@@ -1,0 +1,15 @@
+{
+ "id": "tankouhentai",
+ "name": "Tankou Hentai",
+ "url": "https://tankouhentai.com",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": true,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd 'de' MMMM 'de' yyyy",
+  "dateLocale": "pt",
+  "icon": "https://www.google.com/s2/favicons?domain=tankouhentai.com&sz=128"
+ }
+}

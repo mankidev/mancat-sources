@@ -1,0 +1,19 @@
+{
+ "id": "shadowceviri",
+ "name": "Shadow Çeviri",
+ "url": "https://shadowceviri.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "popularMangaSelector": ".PopularPosts article",
+  "popularMangaSelectorTitle": ".post-title a",
+  "popularMangaSelectorUrl": ".item-thumbnail > a",
+  "mangaDetailsSelector": "#main",
+  "chapterCategory": "Chapter",
+  "pageListSelector": "div.separator",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/shadowceviri/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

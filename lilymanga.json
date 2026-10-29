@@ -1,0 +1,17 @@
+{
+ "id": "lilymanga",
+ "name": "Lily Manga",
+ "url": "https://lilymanga.net",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "genreDirectory": "gl-genre",
+  "mangaSubString": "gl",
+  "dateFormat": "dd.MM.yyyy",
+  "dateLocale": "en",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/lilymanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

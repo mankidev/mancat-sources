@@ -1,0 +1,14 @@
+{
+ "id": "ecchidoujin",
+ "name": "Ecchi-Doujin",
+ "url": "https://ecchi-doujin.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/doujin",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/ecchidoujin/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

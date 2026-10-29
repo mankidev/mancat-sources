@@ -1,0 +1,16 @@
+{
+ "id": "grabberzone",
+ "name": "Grabber Zone",
+ "url": "https://grabber.zone",
+ "theme": "madara",
+ "lang": "all",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "comics",
+  "dateFormat": "dd.MM.yyyy",
+  "dateLocale": "en",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/all/grabberzone/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

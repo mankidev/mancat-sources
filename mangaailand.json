@@ -1,0 +1,14 @@
+{
+ "id": "mangaailand",
+ "name": "Manga Ai Land",
+ "url": "https://manga-ai-land.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "chapterCategory": "فصل",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/mangaailand/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

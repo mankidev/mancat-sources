@@ -1,0 +1,13 @@
+{
+ "id": "roadsteam",
+ "name": "Roads Team",
+ "url": "https://nhaduong.com",
+ "theme": "madara",
+ "lang": "vi",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/vi/roadsteam/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

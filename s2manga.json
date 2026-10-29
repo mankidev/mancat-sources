@@ -1,0 +1,13 @@
+{
+ "id": "s2manga",
+ "name": "S2Manga",
+ "url": "https://s2read.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/s2manga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

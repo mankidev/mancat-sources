@@ -1,0 +1,13 @@
+{
+ "id": "cocomic",
+ "name": "Cocomic",
+ "url": "https://cocomic.co",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/cocomic/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "ruyamanga",
+ "name": "Rüya Manga",
+ "url": "https://www.ruyamanga2.com",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "filterNonMangaItems": "false",
+  "dateFormat": "dd/MM/yyyy",
+  "dateLocale": "en",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/ruyamanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

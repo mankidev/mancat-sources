@@ -1,0 +1,13 @@
+{
+ "id": "kumapoi",
+ "name": "KumaPoi",
+ "url": "https://kumapoi.info",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "4",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/kumapoi/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

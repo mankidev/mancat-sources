@@ -1,0 +1,13 @@
+{
+ "id": "hm2d",
+ "name": "HM2D",
+ "url": "https://doujindistrict.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/hm2d/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

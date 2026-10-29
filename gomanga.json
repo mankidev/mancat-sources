@@ -1,0 +1,13 @@
+{
+ "id": "gomanga",
+ "name": "Go Manga",
+ "url": "https://www.go-manga.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/gomanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

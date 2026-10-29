@@ -1,0 +1,15 @@
+{
+ "id": "likemangain",
+ "name": "MangaYY",
+ "url": "https://mangayy.org",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd MMMM, yyyy",
+  "dateLocale": "en",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/likemangain/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

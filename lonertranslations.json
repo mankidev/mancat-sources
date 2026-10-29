@@ -1,0 +1,13 @@
+{
+ "id": "lonertranslations",
+ "name": "Loner Translations",
+ "url": "https://loner-tl.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/lonertranslations/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "komikdewasa",
+ "name": "Komik Dewasa",
+ "url": "https://komikdewasa.mom",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/komik",
+  "datePattern": "d MMMM yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/komikdewasa/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

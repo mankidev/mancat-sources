@@ -1,0 +1,16 @@
+{
+ "id": "toomtammanga",
+ "name": "ToomTam-Manga",
+ "url": "https://toomtam-manga.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "seriesAuthorSelector": ".imptdt:contains(ผู้เขียน) i",
+  "seriesArtistSelector": ".imptdt:contains(ศิลปิน) i",
+  "seriesTypeSelector": ".imptdt:contains(พิมพ์) a",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/toomtammanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

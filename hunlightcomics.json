@@ -1,0 +1,13 @@
+{
+ "id": "hunlightcomics",
+ "name": "Hunlight Comics",
+ "url": "https://hunlightcomics.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/hunlightcomics/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

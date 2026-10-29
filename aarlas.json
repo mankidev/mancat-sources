@@ -1,0 +1,13 @@
+{
+ "id": "aarlas",
+ "name": "Aarlas",
+ "url": "https://www.arlas.online",
+ "theme": "zeistmanga",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/aarlas/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

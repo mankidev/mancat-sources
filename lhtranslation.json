@@ -1,0 +1,13 @@
+{
+ "id": "lhtranslation",
+ "name": "LHTranslation",
+ "url": "https://lhtranslation.net",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/lhtranslation/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id": "sasangeyou",
+ "name": "Sasangeyou",
+ "url": "https://sasangeyou.net",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "datePattern": "MM/dd/yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/sasangeyou/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

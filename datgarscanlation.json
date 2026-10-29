@@ -1,0 +1,13 @@
+{
+ "id": "datgarscanlation",
+ "name": "Dat-Gar Scan",
+ "url": "https://datgarscanlation.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/datgarscanlation/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

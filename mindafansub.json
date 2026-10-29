@@ -1,0 +1,13 @@
+{
+ "id": "mindafansub",
+ "name": "Minda Fansub",
+ "url": "https://mindafansub.dev",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/mindafansub/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

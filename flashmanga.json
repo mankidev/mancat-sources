@@ -1,0 +1,13 @@
+{
+ "id": "flashmanga",
+ "name": "Flash-Manga",
+ "url": "https://www.flash-manga.net",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/flashmanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

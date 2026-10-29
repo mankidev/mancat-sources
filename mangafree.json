@@ -1,0 +1,13 @@
+{
+ "id": "mangafree",
+ "name": "Mangafree",
+ "url": "https://mangafree.info",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/mangafree/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

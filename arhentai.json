@@ -1,0 +1,14 @@
+{
+ "id": "arhentai",
+ "name": "AR Hentai",
+ "url": "https://arhentai.net",
+ "theme": "madara",
+ "lang": "ar",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "title",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/arhentai/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

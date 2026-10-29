@@ -1,0 +1,14 @@
+{
+ "id": "shijiescans",
+ "name": "Shijie Scans",
+ "url": "https://shijiescans.com",
+ "theme": "mangathemesia",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/seri",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/shijiescans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

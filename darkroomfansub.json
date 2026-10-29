@@ -1,0 +1,20 @@
+{
+ "id": "darkroomfansub",
+ "name": "Dark Room Fansub",
+ "url": "https://lector-darkroomfansub.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "es",
+ "nsfw": true,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelector": "#main",
+  "pageListSelector": "article#reader div.separator",
+  "mangaDetailsSelectorDescription": "#synopsis",
+  "mangaDetailsSelectorGenres": "a[rel=tag]",
+  "mangaDetailsSelectorInfoTitle": "dt",
+  "mangaDetailsSelectorInfoDescription": "dd",
+  "mangaDetailsSelectorInfo": "#extra-info > dl",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/darkroomfansub/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

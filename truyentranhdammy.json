@@ -1,0 +1,14 @@
+{
+ "id": "truyentranhdammy",
+ "name": "Truyen tranh dam my",
+ "url": "https://truyentranhdammyy.site",
+ "theme": "madara",
+ "lang": "vi",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MMMM d, yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/vi/truyentranhdammy/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

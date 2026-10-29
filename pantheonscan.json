@@ -1,0 +1,15 @@
+{
+ "id": "pantheonscan",
+ "name": "Pantheon Scan",
+ "url": "https://pantheon-scan.com",
+ "theme": "madara",
+ "lang": "fr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "d MMMM yyyy",
+  "dateLocale": "fr",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/fr/pantheonscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "id": "mihentai",
+ "name": "Mihentai",
+ "url": "https://mihentai.net",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/mihentai/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

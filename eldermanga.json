@@ -1,0 +1,15 @@
+{
+ "id": "eldermanga",
+ "name": "Elder Manga",
+ "url": "https://eldermanga.com",
+ "theme": "uzaymanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://cdn-el.efsaneler2.can.re",
+  "logo": "https://eldermanga.com/upload/_logo/logo_4ual1x_180.avif",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/eldermanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

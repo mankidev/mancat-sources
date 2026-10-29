@@ -1,0 +1,14 @@
+{
+ "id": "goddoujin",
+ "name": "God-Doujin",
+ "url": "https://god-doujin.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "seriesTypeSelector": ".imptdt:contains(ประเภท) a",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/goddoujin/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

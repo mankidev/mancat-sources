@@ -1,0 +1,13 @@
+{
+ "id": "ntrmanga",
+ "name": "NTR-Manga",
+ "url": "https://www.ntr-manga.net",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://www.google.com/s2/favicons?domain=www.ntr-manga.net&sz=128"
+ }
+}

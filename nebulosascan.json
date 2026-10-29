@@ -1,0 +1,14 @@
+{
+ "id": "nebulosascan",
+ "name": "Nebulosa Scan",
+ "url": "https://nebulosascan.com",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MM/dd/yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/nebulosascan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

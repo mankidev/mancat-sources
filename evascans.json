@@ -1,0 +1,15 @@
+{
+ "id": "evascans",
+ "name": "Eva Scans",
+ "url": "https://evascans.net",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/series",
+  "seriesAltNameSelector": ".desktop-titles",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/evascans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

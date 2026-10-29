@@ -1,0 +1,13 @@
+{
+ "id": "yokai",
+ "name": "Yokai",
+ "url": "https://yokai-team.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/yokai/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

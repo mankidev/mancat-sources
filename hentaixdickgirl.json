@@ -1,0 +1,13 @@
+{
+ "id": "hentaixdickgirl",
+ "name": "HentaiXDickgirl",
+ "url": "https://hentaixdickgirl.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/hentaixdickgirl/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

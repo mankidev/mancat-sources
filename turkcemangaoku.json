@@ -1,0 +1,15 @@
+{
+ "id": "turkcemangaoku",
+ "name": "Türkçe Manga Oku",
+ "url": "https://trmangaoku.com",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelectorStatus": "div.summary-heading:contains(Durumu) + div.summary-content",
+  "dateFormat": "d MMMM yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/turkcemangaoku/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

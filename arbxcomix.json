@@ -1,0 +1,13 @@
+{
+ "id": "arbxcomix",
+ "name": "ArbxComix",
+ "url": "https://arbxcomix.com",
+ "theme": "madara",
+ "lang": "ar",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/arbxcomix/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

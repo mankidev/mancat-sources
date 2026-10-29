@@ -1,0 +1,13 @@
+{
+ "id": "lagoonscans",
+ "name": "Lagoon Scans",
+ "url": "https://lagoonscans.com",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/lagoonscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

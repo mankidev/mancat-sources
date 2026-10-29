@@ -1,0 +1,16 @@
+{
+ "id": "orimanga",
+ "name": "Ori Manga",
+ "url": "https://orimanga.net",
+ "theme": "initmanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "manga",
+  "popularUrlSlug": "manga-siralamasi",
+  "latestUrlSlug": "yakin-zamanda-guncellendi",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/orimanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

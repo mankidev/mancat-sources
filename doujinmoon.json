@@ -1,0 +1,13 @@
+{
+ "id": "doujinmoon",
+ "name": "Doujin Moon",
+ "url": "https://doujinmoon.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/doujinmoon/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

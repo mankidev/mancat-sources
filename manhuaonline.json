@@ -1,0 +1,17 @@
+{
+ "id": "manhuaonline",
+ "name": "SamuraiScan",
+ "url": "https://samurai.j5z.xyz",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "leer",
+  "genreDirectory": "l-generos",
+  "mangaDetailsSelectorDescription": "div.summary__content",
+  "dateFormat": "dd MMMM, yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/manhuaonline/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

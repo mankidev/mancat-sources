@@ -1,0 +1,16 @@
+{
+ "id": "noindexscan",
+ "name": "Hanami Heaven",
+ "url": "https://hanamiheaven.org",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": true,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelectorTitle": "div.post-title-test h1, div.post-title h1",
+  "mangaDetailsSelectorStatus": "div.summary-heading:has(h5:contains(Status)) + div.summary-content",
+  "dateFormat": "dd/MM/yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/noindexscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

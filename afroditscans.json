@@ -1,0 +1,14 @@
+{
+ "id": "afroditscans",
+ "name": "Afrodit Scans",
+ "url": "https://afroditscans.com",
+ "theme": "uzaymanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://cdn-a.efsaneler2.can.re",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/afroditscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

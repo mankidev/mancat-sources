@@ -1,0 +1,14 @@
+{
+ "id": "manhwadesu",
+ "name": "ManhwaDesu",
+ "url": "https://manhwadesu.wiki",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "4",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/komik",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/manhwadesu/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "klikmanga",
+ "name": "KlikManga",
+ "url": "https://klikmanga.org",
+ "theme": "madara",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "daftar-komik",
+  "dateFormat": "MMMM dd, yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/klikmanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

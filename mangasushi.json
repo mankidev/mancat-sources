@@ -1,0 +1,13 @@
+{
+ "id": "mangasushi",
+ "name": "Mangasushi",
+ "url": "https://mangasushi.org",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/mangasushi/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

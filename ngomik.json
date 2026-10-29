@@ -1,0 +1,14 @@
+{
+ "id": "ngomik",
+ "name": "Ngomik (unoriginal)",
+ "url": "https://02.ngomik.cc",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "projectPageString": "/pj",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/ngomik/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "id": "asterscans",
+ "name": "Aster Scans",
+ "url": "https://asterscans.com",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/asterscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

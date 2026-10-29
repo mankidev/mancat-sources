@@ -1,0 +1,13 @@
+{
+ "id": "ngamenkomik",
+ "name": "NgamenKomik",
+ "url": "https://ngamenkomik05.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/ngamenkomik/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "hizomanga",
+ "name": "HizoManga",
+ "url": "https://hizomanga.net",
+ "theme": "madara",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "serie",
+  "mangaDetailsSelectorDescription": ".manga-excerpt",
+  "mangaDetailsSelectorStatus": ".manga-status",
+  "dateFormat": "yyyy-MM-dd",
+  "dateLocale": "en",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/hizomanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

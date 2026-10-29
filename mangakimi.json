@@ -1,0 +1,14 @@
+{
+ "id": "mangakimi",
+ "name": "MangaKimi",
+ "url": "https://www.mangakimi.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "pageSelector": "div#readerarea img, #readerarea div.displayImage + script:containsData(p,a,c,k,e,d)",
+  "icon": "https://www.google.com/s2/favicons?domain=www.mangakimi.com&sz=128"
+ }
+}

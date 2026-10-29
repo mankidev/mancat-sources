@@ -1,0 +1,18 @@
+{
+ "id": "hadesnofansub",
+ "name": "Hades no Fansub",
+ "url": "https://lectorhades.latamtoon.com",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "tmo",
+  "mangaDetailsSelectorStatus": "div.summary_content > div.post-content div.post-content_item:has(div.summary-heading:contains(Status)) div.summary-content",
+  "mangaDetailsSelectorTag": "div.tags-content a.notUsed",
+  "dateFormat": "MM/dd/yyyy",
+  "dateLocale": "es",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/hadesnofansub/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

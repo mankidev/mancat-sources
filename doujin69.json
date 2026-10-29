@@ -1,0 +1,14 @@
+{
+ "id": "doujin69",
+ "name": "Doujin69",
+ "url": "https://doujin69.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/doujin",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/doujin69/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

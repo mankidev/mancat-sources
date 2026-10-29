@@ -1,0 +1,14 @@
+{
+ "id": "moondaisyscans",
+ "name": "Moon Daisy Scans",
+ "url": "https://moondaisyscans.pro",
+ "theme": "mangathemesia",
+ "lang": "tr",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "logo": "https://i1.wp.com/yedek.mangawow.com/moon/2023/11/cropped-dc-photoaidcom-cropped-192x192.png",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/moondaisyscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

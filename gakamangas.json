@@ -1,0 +1,14 @@
+{
+ "id": "gakamangas",
+ "name": "GakaMangas",
+ "url": "https://gakamangas.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "filterNonMangaItems": "false",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/gakamangas/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

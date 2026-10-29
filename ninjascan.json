@@ -1,0 +1,15 @@
+{
+ "id": "ninjascan",
+ "name": "Ninja Scan",
+ "url": "https://ninjacomics.xyz",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd 'de' MMMM 'de' yyyy",
+  "dateLocale": "pt",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/ninjascan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

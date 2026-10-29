@@ -1,0 +1,18 @@
+{
+ "id": "diamondfansub",
+ "name": "DiamondFansub",
+ "url": "https://diamondfansub.com",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "chapterDateSelector": ".chapter-release-date .timediff",
+  "mangaSubString": "seri",
+  "mangaDetailsSelectorAuthor": ".manga-authors",
+  "mangaDetailsSelectorDescription": ".manga-info",
+  "dateFormat": "MMMM d, yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/diamondfansub/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

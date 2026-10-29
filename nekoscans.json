@@ -1,0 +1,13 @@
+{
+ "id": "nekoscans",
+ "name": "NekoScans",
+ "url": "https://nekoproject.org",
+ "theme": "mangathemesia",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/nekoscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

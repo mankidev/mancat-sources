@@ -1,0 +1,13 @@
+{
+ "id": "cat300",
+ "name": "Cat300",
+ "url": "https://cat-300.com",
+ "theme": "madara",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/cat300/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

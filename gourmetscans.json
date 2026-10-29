@@ -1,0 +1,16 @@
+{
+ "id": "gourmetscans",
+ "name": "Gourmet Scans",
+ "url": "https://gourmetsupremacy.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "project",
+  "genreDirectory": "genre",
+  "ajaxTemplate": "wp-manga/content/content-archive",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/gourmetscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "miauscan",
+ "name": "Miau Scan",
+ "url": "https://leemiau.com",
+ "theme": "mangathemesia",
+ "lang": "all",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "datePattern": "dd/MM/yyyy",
+  "seriesGenreSelector": ".mgen a:not(:contains(Português))",
+  "seriesStatusSelector": ".lm4-poster-status",
+  "seriesThumbnailSelector": "img.lm4-poster-image",
+  "seriesDescriptionSelector": ".lm4-summary-full",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/all/miauscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

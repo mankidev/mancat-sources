@@ -1,0 +1,14 @@
+{
+ "id": "arcurafansub",
+ "name": "Arcura Fansub",
+ "url": "https://arcurafansub.com",
+ "theme": "mangathemesia",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/seri",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/arcurafansub/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

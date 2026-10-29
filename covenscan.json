@@ -1,0 +1,14 @@
+{
+ "id": "covenscan",
+ "name": "Coven Scan",
+ "url": "https://covendasbruxonas.com",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": true,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelectorAuthor": "div.post-content_item:contains(Author) > div.summary-content",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/covenscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

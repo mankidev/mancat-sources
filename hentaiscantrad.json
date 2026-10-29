@@ -1,0 +1,16 @@
+{
+ "id": "hentaiscantrad",
+ "name": "Hentai-Scantrad",
+ "url": "https://hentai-scantrad.org",
+ "theme": "madara",
+ "lang": "fr",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelectorStatus": "div.summary-heading:contains(État) + .summary-content",
+  "dateFormat": "d MMMM, yyyy",
+  "dateLocale": "fr",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/fr/hentaiscantrad/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

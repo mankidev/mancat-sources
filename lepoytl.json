@@ -1,0 +1,22 @@
+{
+ "id": "lepoytl",
+ "name": "LepoyTL",
+ "url": "https://www.lepoytl.my.id",
+ "theme": "zeistmanga",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "popularMangaSelector": "div.PopularPosts div.grid > article",
+  "popularMangaSelectorTitle": "h3 > a",
+  "popularMangaSelectorUrl": "h3 > a",
+  "mangaDetailsSelector": "main",
+  "mangaDetailsSelectorGenres": "aside dl a[rel=tag]",
+  "mangaDetailsSelectorInfo": "#extra-info dl",
+  "mangaDetailsSelectorInfoTitle": "dt",
+  "mangaDetailsSelectorInfoDescription": "dd",
+  "pageListSelector": "#reader",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/lepoytl/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

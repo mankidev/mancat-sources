@@ -1,0 +1,14 @@
+{
+ "id": "monopolyscan",
+ "name": "Monopoly Scan",
+ "url": "https://monopolymanhua.com",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MMMM d, yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/monopolyscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

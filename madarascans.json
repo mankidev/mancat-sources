@@ -1,0 +1,14 @@
+{
+ "id": "madarascans",
+ "name": "Madara Scans",
+ "url": "https://madarascans.net",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/series",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/madarascans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

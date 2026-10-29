@@ -1,0 +1,13 @@
+{
+ "id": "yakshacomics",
+ "name": "YakshaComics",
+ "url": "https://yakshacomics.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/yakshacomics/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

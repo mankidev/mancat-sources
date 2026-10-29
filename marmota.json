@@ -1,0 +1,16 @@
+{
+ "id": "marmota",
+ "name": "Marmota",
+ "url": "https://marmota.me",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "comic",
+  "dateFormat": "d 'de' MMM 'de' yyyy",
+  "dateLocale": "es",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/marmota/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "id": "bymichiscan",
+ "name": "Bymichi Scan",
+ "url": "https://bymichiby.com",
+ "theme": "mangathemesia",
+ "lang": "es",
+ "nsfw": true,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/bymichiscan/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "eskimangalar",
+ "name": "Eski Mangalar",
+ "url": "https://eskimangalar.com",
+ "theme": "uzaymanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://cdn-es.efsaneler2.can.re",
+  "logo": "https://eskimangalar.com/upload/_logo/logo_8r8pfv_180.avif",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/eskimangalar/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

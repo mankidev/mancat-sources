@@ -1,0 +1,13 @@
+{
+ "id": "manganeko",
+ "name": "Manga-Neko",
+ "url": "https://manga-neko.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/manganeko/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

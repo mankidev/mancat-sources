@@ -1,0 +1,14 @@
+{
+ "id": "ravenscans",
+ "name": "Raven Scans",
+ "url": "https://ravenscans.org",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/manga",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/ravenscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

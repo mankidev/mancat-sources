@@ -1,0 +1,19 @@
+{
+ "id": "xsanomanga",
+ "name": "XSano Manga",
+ "url": "https://www.xsano-manga.com",
+ "theme": "zeistmanga",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelector": "main",
+  "mangaDetailsSelectorGenres": "dl a[rel=tag]",
+  "mangaDetailsSelectorInfo": "#extra-info dl",
+  "mangaDetailsSelectorInfoTitle": "dt",
+  "mangaDetailsSelectorInfoDescription": "dd",
+  "pageListSelector": "#reader div.separator",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/xsanomanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

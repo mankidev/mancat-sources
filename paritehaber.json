@@ -1,0 +1,13 @@
+{
+ "id": "paritehaber",
+ "name": "Paritehaber",
+ "url": "https://www.paritehaber.com",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/paritehaber/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

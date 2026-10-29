@@ -1,0 +1,14 @@
+{
+ "id": "mangasusu",
+ "name": "Mangasusu",
+ "url": "https://mangasusuku.com",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaUrlDirectory": "/komik",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/mangasusu/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id": "borutoexplorer",
+ "name": "Boruto Explorer",
+ "url": "https://leitor.borutoexplorer.com.br",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd 'de' MMMM 'de' yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/borutoexplorer/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

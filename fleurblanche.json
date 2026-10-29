@@ -1,0 +1,15 @@
+{
+ "id": "fleurblanche",
+ "name": "Fleur Blanche",
+ "url": "https://fbsquadx.com",
+ "theme": "madara",
+ "lang": "pt-BR",
+ "nsfw": true,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaDetailsSelectorStatus": "div.post-content_item:contains(Status) > div.summary-content",
+  "dateFormat": "dd/MM/yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/fleurblanche/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

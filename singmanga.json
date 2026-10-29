@@ -1,0 +1,13 @@
+{
+ "id": "singmanga",
+ "name": "Singmanga",
+ "url": "https://www.sing-manga.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/singmanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

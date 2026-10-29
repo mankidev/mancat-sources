@@ -1,0 +1,14 @@
+{
+ "id": "mikrokosmosfansub",
+ "name": "Mikrokosmos Fansub",
+ "url": "https://mikrokosmosfb.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "tr",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "pageListSelector": ":root",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/mikrokosmosfansub/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

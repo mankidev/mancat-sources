@@ -1,0 +1,17 @@
+{
+ "id": "tortugaceviri",
+ "name": "Tortuga Ceviri",
+ "url": "https://tortugaceviri.com",
+ "theme": "madara",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "MMM d, yyy",
+  "dateLocale": "tr",
+  "useNewChapterEndpoint": "true",
+  "logo": "https://tortugaceviri.com/wp-content/uploads/2022/05/cropped-unknown-192x192.png",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/tortugaceviri/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id": "uchuujinprojects",
+ "name": "Uchuujin Projects",
+ "url": "https://uchuujinmangas.com",
+ "theme": "mangathemesia",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "datePattern": "dd 'de' MMMM 'de' yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/uchuujinprojects/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

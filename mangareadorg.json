@@ -1,0 +1,15 @@
+{
+ "id": "mangareadorg",
+ "name": "MangaRead.org",
+ "url": "https://www.mangaread.org",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "dd.MM.yyy",
+  "dateLocale": "en",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/en/mangareadorg/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id": "tenshimanga",
+ "name": "Tenshi Manga",
+ "url": "https://tenshimanga.com",
+ "theme": "uzaymanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://cdn-t.efsaneler2.can.re",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/tenshimanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

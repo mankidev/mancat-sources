@@ -1,0 +1,13 @@
+{
+ "id": "manhatok",
+ "name": "Manhatok",
+ "url": "https://manhatok.blogspot.com",
+ "theme": "zeistmanga",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/manhatok/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "mhscans",
+ "name": "MHScans",
+ "url": "https://mhscans.com",
+ "theme": "madara",
+ "lang": "es",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "series",
+  "dateFormat": "dd 'de' MMMM 'de' yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/es/mhscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

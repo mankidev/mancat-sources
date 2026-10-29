@@ -1,0 +1,15 @@
+{
+ "id": "uzaymanga",
+ "name": "Uzay Manga",
+ "url": "https://uzaymanga.com",
+ "theme": "uzaymanga",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "cdnUrl": "https://cdn-u.efsaneler2.can.re",
+  "logo": "https://uzaymanga.com/upload/_logo/logo_0hqaup_180.avif",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/uzaymanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

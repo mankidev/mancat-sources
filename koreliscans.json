@@ -1,0 +1,16 @@
+{
+ "id": "koreliscans",
+ "name": "Koreli Scans",
+ "url": "https://www.nabicix.com",
+ "theme": "mangathemesia",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "dateFormat": "d MMMM yyyy",
+  "dateLocale": "tr",
+  "logo": "https://image.nabicix.com/2026/07/cropped-nabicix-1-192x192.webp",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/koreliscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "id": "komiktap",
+ "name": "Komiktap",
+ "url": "https://komiktap.info",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/komiktap/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

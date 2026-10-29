@@ -1,0 +1,14 @@
+{
+ "id": "izanamiscans",
+ "name": "Izanami Scans",
+ "url": "https://izanamiscans.my.id",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": false,
+ "rateLimitPermits": "3",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "seriesAuthorSelector": ".fmed b:contains(Penulis) + span",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/izanamiscans/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

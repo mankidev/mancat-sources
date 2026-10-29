@@ -1,0 +1,13 @@
+{
+ "id": "patimanga",
+ "name": "Pati Manga",
+ "url": "https://www.patimanga.com",
+ "theme": "mangathemesia",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/patimanga/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "kombatch",
+ "name": "Kombatch",
+ "url": "https://kombatch.cc",
+ "theme": "mangathemesia",
+ "lang": "id",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "seriesAuthorSelector": ".imptdt-author-sub-2 .js-button-custom",
+  "seriesArtistSelector": ".imptdt-artist-sub-2 .js-button-custom",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/id/kombatch/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

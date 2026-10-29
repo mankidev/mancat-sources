@@ -1,0 +1,14 @@
+{
+ "id": "amangaplanet",
+ "name": "Amanga Planet",
+ "url": "https://www.amangaplanet.com.tr",
+ "theme": "mangathemesia",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "datePattern": "dd/MM/yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/amangaplanet/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

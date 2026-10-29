@@ -1,0 +1,15 @@
+{
+ "id": "mangaspark",
+ "name": "MangaSpark",
+ "url": "https://sparkmanga.net",
+ "theme": "madara",
+ "lang": "ar",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "pageListParseSelector": "div.wp-manga-chapter-img img, div.reading-content img",
+  "dateFormat": "d MMMM، yyyy",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/ar/mangaspark/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "doujinxh",
+ "name": "Doujinx-H",
+ "url": "https://doujinx-h.com",
+ "theme": "madara",
+ "lang": "th",
+ "nsfw": true,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "mangaSubString": "doujin",
+  "genreDirectory": "doujin-genre",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/th/doujinxh/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "id": "tsundokutraducoes",
+ "name": "Tsundoku Traduções",
+ "url": "https://tsundoku.com.br",
+ "theme": "mangathemesia",
+ "lang": "pt-BR",
+ "nsfw": false,
+ "rateLimitPermits": "1",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "altNamePrefix": "Nome alternativo: ",
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/pt/tsundokutraducoes/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}
