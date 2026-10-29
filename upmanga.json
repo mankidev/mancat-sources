@@ -1,0 +1,9 @@
+{
+ "id": "upmanga",
+ "name": "Up Manga",
+ "url": "https://www.up-manga.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "config": {}
+}

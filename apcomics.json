@@ -1,0 +1,9 @@
+{
+ "id": "apcomics",
+ "name": "APCOMICS",
+ "url": "https://apcomics.org",
+ "theme": "madara",
+ "lang": "en",
+ "nsfw": true,
+ "config": {}
+}

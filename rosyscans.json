@@ -1,0 +1,9 @@
+{
+ "id": "rosyscans",
+ "name": "Rosyscans",
+ "url": "https://rosyscans.com",
+ "theme": "mangathemesia",
+ "lang": "en",
+ "nsfw": false,
+ "config": {}
+}

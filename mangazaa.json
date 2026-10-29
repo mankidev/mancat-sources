@@ -1,0 +1,9 @@
+{
+ "id": "mangazaa",
+ "name": "Manga Zaa",
+ "url": "https://manga-zaa.net",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": true,
+ "config": {}
+}

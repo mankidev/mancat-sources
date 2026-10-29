@@ -1,0 +1,9 @@
+{
+ "id": "zenmanga",
+ "name": "Zen Manga",
+ "url": "https://www.zen-manga.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "config": {}
+}

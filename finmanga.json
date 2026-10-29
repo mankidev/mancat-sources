@@ -1,0 +1,9 @@
+{
+ "id": "finmanga",
+ "name": "Fin Manga",
+ "url": "https://www.fin-manga.com",
+ "theme": "mangathemesia",
+ "lang": "th",
+ "nsfw": false,
+ "config": {}
+}
