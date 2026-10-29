@@ -1,4 +1,8 @@
 {
+ "bundle": {
+  "file": "bundle.json",
+  "sha256": "d31f1c5d7cd5ee87f04f2ea0e5d7f59b6642167527a75c2818fd770a71f1cc34"
+ },
  "files": {
   "Luvyaa.json": "48e81a5d09a03a210d24b8175be8c9515bb96e04079d60c842ed722a5863cd8d",
   "aarlas.json": "3cada27f9b50ff6c77bf72ccfd6b164534a9a875398a33cd0bb51bfb979f967f",

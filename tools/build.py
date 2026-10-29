@@ -22,7 +22,7 @@ def public_key():
 def main():
     files, sources, catalog = {}, [], []
     for f in sorted(os.listdir(ROOT)):
-        if f in ("index.json", "catalog.json") or not SAFE.match(f):
+        if f in ("index.json", "catalog.json", "bundle.json") or not SAFE.match(f):
             continue
         body = open(os.path.join(ROOT, f), "rb").read()
         files[f] = hashlib.sha256(body).hexdigest()
@@ -38,7 +38,13 @@ def main():
             sys.exit(f"{f}: blocked content")
         sources.append(f)
         catalog.append(d)
-    index = {"name": NAME, "key": public_key(), "files": files, "sources": sources}
+    bundle = {}
+    for f in files:
+        bundle[f] = open(os.path.join(ROOT, f), encoding="utf-8").read()
+    bundle_raw = json.dumps(bundle, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()
+    open(os.path.join(ROOT, "bundle.json"), "wb").write(bundle_raw)
+    index = {"name": NAME, "key": public_key(), "files": files, "sources": sources,
+             "bundle": {"file": "bundle.json", "sha256": hashlib.sha256(bundle_raw).hexdigest()}}
     if "network.json" in files:
         index["network"] = "network.json"
     raw = json.dumps(index, indent=1, sort_keys=True).encode()
