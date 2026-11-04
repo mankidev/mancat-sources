@@ -2,7 +2,7 @@
  "id": "eldermanga",
  "name": "Elder Manga",
  "url": "https://eldermanga.com",
- "theme": "uzaymanga",
+ "theme": "svelte-manga",
  "lang": "tr",
  "nsfw": false,
  "rateLimitPermits": "2",

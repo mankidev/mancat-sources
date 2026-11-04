@@ -2,7 +2,7 @@
  "id": "eskimangalar",
  "name": "Eski Mangalar",
  "url": "https://eskimangalar.com",
- "theme": "uzaymanga",
+ "theme": "svelte-manga",
  "lang": "tr",
  "nsfw": false,
  "rateLimitPermits": "2",

@@ -2,7 +2,7 @@
  "id": "uzaymanga",
  "name": "Uzay Manga",
  "url": "https://uzaymanga.com",
- "theme": "uzaymanga",
+ "theme": "svelte-manga",
  "lang": "tr",
  "nsfw": false,
  "rateLimitPermits": "2",

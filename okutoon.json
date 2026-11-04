@@ -1,0 +1,13 @@
+{
+ "id": "okutoon",
+ "name": "OkuToon",
+ "url": "https://okutoon.com",
+ "theme": "series-api",
+ "lang": "tr",
+ "nsfw": false,
+ "rateLimitPermits": "2",
+ "rateLimitPeriodMs": "1000",
+ "config": {
+  "icon": "https://raw.githubusercontent.com/keiyoushi/extensions-source/main/src/tr/okutoon/res/mipmap-xxxhdpi/ic_launcher.png"
+ }
+}

@@ -2,7 +2,7 @@
  "id": "afroditscans",
  "name": "Afrodit Scans",
  "url": "https://afroditscans.com",
- "theme": "uzaymanga",
+ "theme": "svelte-manga",
  "lang": "tr",
  "nsfw": false,
  "rateLimitPermits": "2",

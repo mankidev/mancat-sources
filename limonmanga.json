@@ -2,7 +2,7 @@
  "id": "limonmanga",
  "name": "Limon Manga",
  "url": "https://limonmanga.com",
- "theme": "uzaymanga",
+ "theme": "svelte-manga",
  "lang": "tr",
  "nsfw": false,
  "rateLimitPermits": "2",

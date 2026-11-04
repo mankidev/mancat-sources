@@ -2,7 +2,7 @@
  "id": "tenshimanga",
  "name": "Tenshi Manga",
  "url": "https://tenshimanga.com",
- "theme": "uzaymanga",
+ "theme": "svelte-manga",
  "lang": "tr",
  "nsfw": false,
  "rateLimitPermits": "2",
